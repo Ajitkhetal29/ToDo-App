@@ -1,4 +1,4 @@
-import style from "./Appname.module.css";
+import style from "./AppName.module.css";
 
 const AppName = () => {
   return (
