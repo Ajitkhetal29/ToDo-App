@@ -2,7 +2,7 @@
 
 A simple, user-friendly To-Do application built using React and Vite, styled with Bootstrap. This app allows users to add tasks with a due date, mark tasks as completed, and manage tasks with a clear separation between active and completed tasks.
 
-#Visit the project 
+# Visit the project 
 https://main--to-do-app-react-boot-vite.netlify.app/
 
 ## Features
