@@ -28,6 +28,3 @@ To get a local copy of the project up and running, follow these steps:
 3. **Start the app**
    ```bash
    npm run dev
-
-
-
