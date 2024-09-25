@@ -1,4 +1,4 @@
-import CompletedTaskList from "./completedTasklist";
+import CompletedTaskList from "./CompletedTasklist";
 
 function CompletedTask({completedTodo}){
 
