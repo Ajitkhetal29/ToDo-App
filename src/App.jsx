@@ -5,7 +5,7 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import AddTask from "./components/AddTask";
 import TodoTask from "./components/TodoTask";
-import CompletedTask from "./Components/CompletedTask";
+import CompletedTask from "./components/CompletedTask";
 import AppName from "./components/AppName";
 import AppName2 from "./components/Appname2";
 
