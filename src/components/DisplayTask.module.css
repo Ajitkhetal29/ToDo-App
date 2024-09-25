@@ -1,0 +1,28 @@
+.taskContainer {
+    margin: 10px 0; /* Space between tasks */
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f8d7da; /* Light red background for task */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+.taskRow {
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Space out items */
+    align-items: center; /* Center items vertically */
+}
+
+.taskName {
+    flex: 1; /* Allow task name to take up available space */
+    font-weight: bold; /* Bold text for task name */
+    color: #721c24; /* Darker color for text */
+}
+
+.taskDate {
+    flex: 0 0 120px;
+    color: #856404; /* Darker color for date */
+}
+
+.taskButton {
+    flex: 0 0 auto; /* Fixed size for button */
+}

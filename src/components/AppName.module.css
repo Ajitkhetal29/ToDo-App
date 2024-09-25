@@ -1,0 +1,14 @@
+.appNameContainer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .appTitle {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333; /* Adjust the color as needed */
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  

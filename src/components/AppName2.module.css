@@ -1,0 +1,18 @@
+.completedTaskContainer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .completedTaskTitle {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #4caf50; /* Green to signify completed tasks */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  

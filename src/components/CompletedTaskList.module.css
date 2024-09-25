@@ -1,0 +1,26 @@
+.taskContainer {
+    margin: 10px 0; /* Space between completed tasks */
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #e7f3fe; /* Light blue background */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+  }
+  
+  .taskRow {
+    display: flex; /* Use flexbox for alignment */
+    justify-content: space-between; /* Space out items */
+    align-items: center; /* Center items vertically */
+  }
+  
+  .taskName {
+    flex: 1; /* Allow task name to take up available space */
+    font-weight: bold; /* Bold text for task name */
+    color: #333; /* Dark color for text */
+  }
+  
+  .taskDate {
+    flex: 0 0 120px; /* Fixed width for date */
+    text-align: right; /* Align date to the right */
+    color: #555; /* Slightly lighter color for date */
+  }
+  
