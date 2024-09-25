@@ -7,7 +7,7 @@ import AddTask from "./components/AddTask";
 import TodoTask from "./components/TodoTask";
 import CompletedTask from "./components/CompletedTask";
 import AppName from "./components/AppName";
-import AppName2 from "./components/Appname2";
+import AppName2 from "./components/AppName2";
 
 function App() {
   const [todoItems, setTodoItems] = useState([]);
