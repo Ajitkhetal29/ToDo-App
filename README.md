@@ -25,6 +25,18 @@ To get a local copy of the project up and running, follow these steps:
    ```bash
    npm install
    
-3. **Start the app**
+4. **Start the app**
    ```bash
    npm run dev
+   
+5. Open your browser Navigate to http://localhost:5173 to view the app.
+
+## Usage
+Add Task: Enter a task description and due date, then click "Add Task" to save it.
+Complete Task: Click the "Complete" button to move a task to the completed tasks section.
+Manage Tasks: View active and completed tasks in separate sections for easy organization.
+
+## Built With
+React - JavaScript library for building user interfaces.
+Vite - Next-generation frontend tooling.
+Bootstrap - CSS framework for responsive web design.
