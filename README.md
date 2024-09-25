@@ -16,3 +16,18 @@ To get a local copy of the project up and running, follow these steps:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/todo-app.git
+
+2. **Navigate to the project directory**
+   ```bash
+   cd todo-app
+   
+3. **Install dependencies Make sure you have Node.js installed, then run**
+   ```bash
+   npm install
+   
+3. **Start the app**
+   ```bash
+   npm run dev
+
+
+
